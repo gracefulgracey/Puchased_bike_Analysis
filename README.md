@@ -96,3 +96,23 @@ Using the IF nested function as below:
 ![](Pivot_Table.PNG)
 ## VISUALIZATION/DASHBOARD
 ![](Dash_board.PNG)
+## RESULT/FINDINGS
+Based on the analysis conducted using the cleaned and transformed dataset, the following key insights and patterns have been identified regarding the factors influencing the decision to purchase a bike among the surveyed individuals:
+1.	**Income Influence:**
+- **Individuals with higher incomes** (e.g., $160,000.00) are more likely to purchase a bike compared to those with lower incomes.
+- **Respondents with moderate to high incomes** (e.g., $70,000.00 and above) showed a higher likelihood of purchasing a bike.
+2.	**Demographic Factors:**
+- **Gender:** Males are slightly more likely to purchase bikes compared to females in the dataset.
+- **Age:** Younger individuals (classified as "Youth", aged below 50) are more likely to purchase bikes. For instance, individuals aged 33 and 41 who fall into the "Youth" category tend to purchase bikes more than those in the "Adult" category (aged 50 and above).
+3.	**Socio-economic Factors:**
+- **Education:** Individuals with a high school education or partial college education seem to purchase bikes more frequently than those with bachelor’s degrees.
+- **Occupation:** Occupations also play a role, with professionals and management-level individuals being more likely to purchase bikes compared to those in clerical or manual jobs.
+- **Home Ownership:** Homeowners are more likely to purchase bikes compared to non-homeowners. This could be linked to higher disposable income among homeowners.
+4.	**Commute and Regional Influence:**
+- **Commute Distance:** Shorter commute distances (0-1 Miles) are associated with a higher likelihood of bike purchases. This suggests that individuals who live closer to their workplace find it more feasible to commute by bike.
+- **Region:** Individuals residing in the Pacific region are more likely to purchase bikes compared to those in Europe. This regional difference may be influenced by factors such as urban infrastructure and cultural attitudes toward biking.
+5.	**Family Considerations:**
+- **Number of Children:** Individuals with fewer children (e.g., 0 or 1) tend to purchase bikes more frequently. This could be due to the convenience and feasibility of biking for those with smaller families.
+- **Cars Owned:** Owning fewer cars (e.g., 0 or 1) correlates with a higher likelihood of bike purchases. This suggests that individuals who rely less on cars are more inclined to consider biking as an alternative mode of transportation.
+## Conclusion
+The analysis reveals that higher income, younger age, shorter commute distances, residence in the Pacific region, and specific socio-economic factors such as education and occupation significantly influence the likelihood of bike purchases. These findings can help stakeholders tailor their strategies to target the identified demographic groups more effectively and promote bike usage as a sustainable mode of transportation.
