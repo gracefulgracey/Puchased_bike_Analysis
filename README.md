@@ -92,5 +92,7 @@ Using the IF nested function as below:
 =IF(L2<=31, "Children", IF(L2<=50, "Youth", IF(L2<=70, "Adult" )))
 ## TRANSFORMED DATA
 ![](Transformed_data.PNG)
+## ANALYSIS AND SUMMARISES WITH PIVOT TABLE
+![](Pivot_Table.PNG)
 ## VISUALIZATION/DASHBOARD
 ![](Dash_board.PNG)
