@@ -90,3 +90,5 @@ Power BI will be used to perform the analysis and create visualizations for the 
 - **Implementation:** Created a new column "Age Range" to reflect these categories.
 Using the IF nested function as below:
 =IF(L2<=31, "Children", IF(L2<=50, "Youth", IF(L2<=70, "Adult" )))
+## TRANSFORMED DATA
+![](Transformed_data.PNG)
