@@ -13,6 +13,46 @@
 - To determine the impact of commute distance on bike purchase decisions.
 ## DATA SOURCE 
 #### The data used for the analysis of bike sales was collected through a survey conducted using a Google Form. The survey gathered responses from a diverse group of participants, providing detailed information on various demographics and socio-economic factors. 
+## DATA DESCRIPTION
+The dataset contains information collected from a survey aimed at understanding factors influencing bike purchases. Each row in the dataset represents an individual respondent, and the columns capture various demographic and socio-economic attributes. Below is a detailed description of each column in the dataset:
+1.	**ID:** A unique identifier for each respondent.
+2.	**Marital Status:** Indicates the marital status of the respondent.
+o	M: Married
+o	S: Single
+3. **Gender:** Indicates the gender of the respondent.
+o	M: Male
+o	F: Female
+4.	**Income:** The annual income of the respondent in US dollars.
+5.	**Children:** The number of children the respondent has.
+6.	**Education:** The highest level of education attained by the respondent.
+o	Bachelors
+o	Partial College
+o	High School
+7.	**Occupation:** The type of occupation the respondent is engaged in.
+o	Skilled Manual
+o	Clerical
+o	Professional
+o	Management
+o	Manual
+8.	**Home Owner:** Indicates whether the respondent owns a home.
+o	Yes: Owns a home
+o	No: Does not own a home
+9.	**Cars:** The number of cars owned by the respondent.
+10.	**Commute Distance:** The distance the respondent commutes to work.
+o	0-1 Miles
+o	1-2 Miles
+o	2-5 Miles
+o	5-10 Miles
+11.	**Region:** The region where the respondent resides.
+o	Europe
+o	Pacific
+o	North America
+12.	**Age:** The age of the respondent.
+13.	**Purchased Bike:** Indicates whether the respondent purchased a bike.
+o	Yes: Purchased a bike
+o	No: Did not purchase a bike
+## DATA COLLECTION/PREPARATION
+![]()
 ## TOOLS USED
 #### For the "Analysis of Bike Sales" project, the following tools will be utilized:
 #### Excel for Data Cleansing and Transformation
