@@ -96,6 +96,99 @@ Using the IF nested function as below:
 ![](Pivot_Table.PNG)
 ## VISUALIZATION/DASHBOARD
 ![](Dash_board.PNG)
+
+The "Bike Purchase Analysis" dashboard provides a comprehensive overview of the factors influencing bike purchases, visualized through various charts and metrics. Here’s a breakdown of the insights drawn from the dashboard:
+
+#### **Total Metrics:**
+- Total Respondents: 1000
+- Purchased a Bike: 511
+- Did Not Purchase a Bike: 489
+
+#### **1. Bike Purchase by Gender**
+#### Females:
+- Purchased: 239
+- Did Not Purchase: 250
+#### Males:
+- Purchased: 269
+- Did Not Purchase: 242
+#### Insight: Males have a slightly higher bike purchase rate compared to females.
+#### **2. Commute Distance vs Purchased Bike:**
+#### 0-1 Miles:
+- Purchased: 200
+- Did Not Purchase: 166
+#### 10+ Miles:
+- Purchased: 78
+- Did Not Purchase: 33
+  #### 1-2 Miles:
+- Purchased: 92
+- Did Not Purchase: 77
+#### 2-5 Miles:
+- Purchased: 67
+- Did Not Purchase: 95
+#### 5-10 Miles:
+- Purchased: 116
+- Did Not Purchase: 76
+#### Insight: Most bike purchases are made by individuals with a short commute distance (0-1 Miles).
+#### **3. Age Range with Highest Purchase**
+#### Youth:
+- Purchased: 332
+- Did Not Purchase: 282
+#### Children:
+- Purchased: 39
+- Did Not Purchase: 71
+#### Adult:
+- Purchased: 110
+- Did Not Purchase: 166
+#### Insight: Youth are the highest purchasers of bikes, followed by adults.
+#### **4. Educational Level/Bike Purchase**
+#### Bachelors:
+- Purchased: 169
+- Did Not Purchase: 137
+#### Graduate Degree:
+- Purchased: 94
+- Did Not Purchase: 80
+#### High School:
+- Purchased: 100
+- Did Not Purchase: 79
+#### Partial College:
+- Purchased: 146
+- Did Not Purchase: 119
+#### Partial High School:
+- Purchased: 56
+- Did Not Purchase: 20
+  #### Insight: Individuals with a Bachelor’s degree have the highest bike purchase rate, followed by those with partial college education.
+#### **5. Those that Purchased a Bike in the 3 Regions**
+#### Pacific:
+- Males: 106
+- Females: 86
+#### North America:
+- Males: 269
+- Females: 239
+#### Europe:
+- Males: 136
+- Females: 164
+#### Insight: North America has the highest bike purchase rate, with males leading in purchases in the Pacific and North America regions, while females lead in Europe.
+#### **6. Gender/Age vs Bike Purchase**
+#### Adult Females:
+- Purchased: 82
+- Did Not Purchase: 50
+#### Children Females:
+- Purchased: 33
+- Did Not Purchase: 39
+#### Youth Females:
+- Purchased: 135
+- Did Not Purchase: 173
+#### Adult Males:
+- Purchased: 84
+- Did Not Purchase: 60
+#### Children Males:
+- Purchased: 38
+- Did Not Purchase: 33
+#### Youth Males:
+- Purchased: 145
+- Did Not Purchase: 159
+#### Insight: Youth, both male and female, are the largest group purchasing bikes, with a notable difference in purchase rates among adults and children.
+
 ## RESULT/FINDINGS
 Based on the analysis conducted using the cleaned and transformed dataset, the following key insights and patterns have been identified regarding the factors influencing the decision to purchase a bike among the surveyed individuals:
 1.	**Income Influence:**
