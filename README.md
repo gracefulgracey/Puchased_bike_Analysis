@@ -42,3 +42,11 @@ Power BI will be used to perform the analysis and create visualizations for the 
 #### Error Checking:
 - Validation of Data Entries: Ensured that all numerical fields (e.g., Income, Children, Cars) contained valid numerical values.
 - Correction of Errors: Addressed any errors found in the data entries, such as incorrect income formats or invalid ages.
+#### Data Transformation Steps:
+#### 1.	Age Range Calculation:
+- **Children:** Defined as respondents aged below 31
+- **Youth:** Defined as respondents aged below 50.
+- **Adult:** Defined as respondents aged 50 and above.
+- **Implementation:** Created a new column "Age Range" to reflect these categories.
+Using the IF nested function as below:
+=IF(L2<=31, "Children", IF(L2<=50, "Youth", IF(L2<=70, "Adult" )))
