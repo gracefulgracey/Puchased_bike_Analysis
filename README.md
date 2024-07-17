@@ -52,7 +52,7 @@ o	North America
 o	Yes: Purchased a bike
 o	No: Did not purchase a bike
 ## DATA COLLECTION/PREPARATION
-![]()
+![](Raw_data.PNG)
 ## TOOLS USED
 #### For the "Analysis of Bike Sales" project, the following tools will be utilized:
 #### Excel for Data Cleansing and Transformation
