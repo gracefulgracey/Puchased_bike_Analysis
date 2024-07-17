@@ -61,12 +61,9 @@ Excel will be used as the primary tool for data cleansing and transformation. Th
 - **Data Cleaning:** Identifying and correcting any inaccuracies or inconsistencies in the data. This includes handling missing values, removing duplicates, and ensuring uniform formatting.
 - **Data Transformation:** Structuring the data for analysis. This includes creating new calculated columns, such as categorizing income ranges, calculating age groups, and summarizing key metrics.
 - **Data Validation:** Ensuring that the data is accurate and reliable through validation techniques and checks.
-#### Power BI for Analysis and Visualization
-Power BI will be used to perform the analysis and create visualizations for the dataset. This involves:
-- **Data Import:** Importing the cleansed and transformed data from Excel into Power BI.
-- **Analysis:** Using Power BI's analytical tools to uncover insights, identify trends, and perform statistical analysis. This includes creating measures, calculated columns, and utilizing DAX functions for advanced calculations.
-- **Visualization:** Designing interactive and dynamic visualizations such as charts, graphs, and dashboards to present the findings. This includes visualizations to depict the relationship between bike purchases and various factors like income, age, occupation, and region.
-- **Reporting:** Generating comprehensive reports that summarize the key insights and findings from the analysis. These reports can be shared and accessed interactively by stakeholders.
+#### Excel Pivot for Analysis and Visualization
+Excel Pivot table and chart will be used to perform the analysis and create visualizations for the dataset. This involves:
+
 ## DATA CLEANSING AND TRANSFORMATION
 #### Data Cleansing Steps:
 #### Marital Status:
